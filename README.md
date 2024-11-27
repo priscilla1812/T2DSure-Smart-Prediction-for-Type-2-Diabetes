@@ -48,7 +48,7 @@ Even though, the implementation of the project has been successful, it faced man
 
 ## Accomplishments that I am proud of
 
-Diabetes Prediction Dataset contains medical data of men and women and the diagnostic test is HbA1c test . The most popular ML algorithms like Logistic Regression, Decision Tree, Random Forest, XGBoost have been used to build and train predictive models. The accuracy rate of ML models is : XGBoost – 96%, RF – 96%, DT – 94%, LR – 88%. So, XGB model has the highest accuracy rate and Gradio Interface is used for GUI development. Users can enter medical information to determine if they have type 2 diabetes or not, and the ML model almost accurately predicts and classifies if the users have type 2 diabetes or not. It also predicts if a user has a risk of having prediabetes. This whole project has been implemented using Google Colaboratory because of ease of use, simplicity, and efficiency.
+Diabetes Prediction Dataset contains medical data of men and women and the diagnostic test is HbA1c test . The most popular ML algorithms like Logistic Regression, Decision Tree, Random Forest, XGBoost have been used to build and train predictive models. The accuracy rate of ML models is : XGBoost – 97%, RF – 96%, DT – 94%, LR – 88%. So, XGB model has the highest accuracy rate and Gradio Interface is used for GUI development. Users can enter medical information to determine if they have type 2 diabetes or not, and the ML model almost accurately predicts and classifies if the users have type 2 diabetes or not. It also predicts if a user has a risk of having prediabetes. This whole project has been implemented using Google Colaboratory because of ease of use, simplicity, and efficiency.
 
 ## What I learned
 
